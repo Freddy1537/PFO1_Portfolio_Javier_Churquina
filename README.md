@@ -94,6 +94,8 @@ El proyecto fue publicado utilizando GitHub Pages a partir de la rama `master` d
 
 También se realizó la publicación utilizando Vercel, vinculando el repositorio de GitHub para realizar el despliegue del proyecto.
 
+🌐 [Ver Portfolio en Vercel](https://pfo-1-portfolio-javier-churquina.vercel.app/)
+
 La página fue probada desde las URLs pública para verificar que los estilos, enlaces y estructura general funcionaran correctamente.
 
 ## Uso de Inteligencia Artificial
