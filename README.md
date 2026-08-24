@@ -6,6 +6,8 @@ El objetivo del proyecto es presentar mi perfil como estudiante de Desarrollo de
 
 ## Sitio publicado
 
+🌐 [Ver Portfolio en Vercel](https://pfo-1-portfolio-javier-churquina.vercel.app/)
+
 🌐 [Ver Portfolio en GitHub Pages](https://freddy1537.github.io/PFO1_Portfolio_Javier_Churquina/)
 
 ## Repositorio
